@@ -1,0 +1,3 @@
+<?php
+
+include_once('basesite_img_presets.features.inc');
